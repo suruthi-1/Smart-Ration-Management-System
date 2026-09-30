@@ -52,6 +52,7 @@ Academic / Student Project
 
 - Repository Owner: [suruthi-1](https://github.com/suruthi-1)
 - Contributors:  [SandanaPM](https://github.com/SandanaPM)
+- Contributors: [Sanjay C]
 
 
 Smart Ration Management System Team
