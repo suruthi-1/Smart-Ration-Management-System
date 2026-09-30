@@ -51,5 +51,5 @@ Academic / Student Project
 ## Project Maintainer
 
 - [@suruthi-1](https://github.com/suruthi-1)
-- 
+- [SandanaPM](https://github.com/SandanaPM)
 Smart Ration Management System Team
