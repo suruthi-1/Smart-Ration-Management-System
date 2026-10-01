@@ -45,7 +45,7 @@ Smart Ration Management System is a Flutter-based mobile application designed to
 
 ## Project Type
 
-Academic / Student Project
+Academic / Student Project on teamwork
 
 ## Author
 ## Project Team
