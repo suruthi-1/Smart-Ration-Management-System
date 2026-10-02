@@ -51,7 +51,7 @@ Academic / Student Project on teamwork
 ## Project Team
 
 - Repository Owner: [Suruthi D](https://github.com/suruthi-1)
-- Contributors:  [Sandana P M](https://github.com/SandanaPM)
+- Contributors: [Sandana P M](https://github.com/SandanaPM)
 - Contributors: [Sanjay  C](https://github.com/sanjayc-16)
 
 
